@@ -13,6 +13,6 @@ Me llamo Jesús Ulises Alonso y estudio en la Facultad de Informática de la UAQ
     - Rainbow 6 Siege
 - Teatro
 
-## Mi Mascota
+## Ein says hi
 
 ![Foto de mi mascota](ein.png)
