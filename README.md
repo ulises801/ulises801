@@ -16,3 +16,15 @@ Me llamo Jesús Ulises Alonso y estudio en la Facultad de Informática de la UAQ
 ## Ein says hi
 
 ![Foto de mi mascota](ein.png)
+
+## Quote favorita
+> “Whatever happens, happens.” ― Keiko Nobumoto
+
+## Código
+```javascript
+Console.log('See you in space cowboy');
+```
+
+```python
+printf("Bang...")
+```
